@@ -6,23 +6,50 @@
     margin: 0;
     padding: 0;
     border: none;
-    background-color: rgb(48, 6, 82);
+    background-color: rgb(36, 4, 61);
 }
 
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    
 }
 
 
-h1 {font-family: Oswald, sans-serif;
+h1  {
+    font-family: Oswald, sans-serif;
 text-transform: uppercase;
 letter-spacing: 4px;
-color: #252525;
 text-align: center;
 padding-top: 25px;
-color: rgb(240, 237, 232);}
+color: rgb(255, 255, 255);
+}
+
+
+h2{
+    font-family: Oswald, sans-serif;
+    
+    letter-spacing: 4px;
+    text-align: center;
+    padding-top: 25px;
+    color: rgb(255, 255, 255);
+    
+}
+
+
+
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 30px;
+    text-align: center;
+    font-size: large;
+    color: rgb(255, 255, 255);
+    padding-left: 40px;
+    padding-right: 40px;
+    
+
+}
+
 
 #Fimage {
     width: 1000px;
@@ -30,5 +57,6 @@ color: rgb(240, 237, 232);}
     margin-right: auto;
     display: block;
     padding-top: 30px;
+    
     
 }
