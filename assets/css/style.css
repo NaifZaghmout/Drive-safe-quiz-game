@@ -6,7 +6,7 @@
     margin: 0;
     padding: 0;
     border: none;
-    background-color: rgb(36, 4, 61);
+    background-color:rgb(255, 68, 0);
 }
 
 body {
@@ -44,9 +44,9 @@ p{
     text-align: center;
     font-size: large;
     color: rgb(255, 255, 255);
-    padding-left: 40px;
-    padding-right: 40px;
-    
+    padding-left: 100px;
+    padding-right: 100px;
+    letter-spacing: 1px;
 
 }
 
@@ -57,6 +57,80 @@ p{
     margin-right: auto;
     display: block;
     padding-top: 30px;
+    padding-bottom: 20px;
     
     
+}
+
+
+.quiz-container {
+border-radius: 30px;
+box-shadow: 0 0 10px 2px black;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 600px;
+overflow: hidden;
+width: 1000px;
+ box-sizing: content-box;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 40px;
+ margin-bottom: 40px;
+color: aliceblue;
+font-size: large;
+
+}
+
+
+
+.quiz-header{
+
+    padding: 3rem;
+}
+
+h3{
+    padding-top: 1rem;
+    text-align: center;
+    margin: 0;
+}
+
+#questions {
+    text-align: center;
+    padding-bottom: 200px;
+    
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li{
+    font-size: 1.2rem;
+    margin: 1rem 0;
+}
+
+
+ul li label{
+    cursor: pointer;
+}
+
+button{
+    background-color: rgb(255, 255, 255);
+    font-size: medium ;
+    border: none;
+    display: block;
+    width: 100%;
+    cursor: pointer;
+    padding: 1.3rem;
+}
+
+button.hover{
+    background-color: aqua;
+}
+
+button.focus{
+    outline: none;
+    background-color: green;
 }
