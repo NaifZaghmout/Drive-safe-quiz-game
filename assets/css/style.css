@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,300&family=Space+Mono&display=swap');
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-color: rgb(48, 6, 82);
+}
+
+body {
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+}
+
+
+h1 {
+    font-family: Oswald, sans-serif;
+text-transform: uppercase;
+letter-spacing: 4px;
+color: #252525;
+text-align: center;
+padding-top: 25px;
+color: rgb(255, 166, 0);}
+
+#Fimage {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 30px;
+    
+}
