@@ -6,12 +6,16 @@ D: "Designe"
 correct: "A" ,
 
 
+
+
 question : "All your passengers must wear seat belts unless?" ,
 A: "they are sitting in the back seat." ,
 B: "an infant is sitting on a passenger's lap." ,
 C: "you are driving in a congested area." ,
 D: "they are exempted for medical reasons." ,
 correct: "D" ,
+
+
 
 
 question : "You need to reverse into a side street. At what point is your car the biggest hazard to passing traffic?" ,
@@ -22,12 +26,16 @@ D: "When you begin the manoeuvre" ,
 correct : "A" ,
 
 
+
+
 question : "You should not reverse?" ,
 A: "in a built-up area." ,
 B: "into a side street." ,
 C: "further than necessary." ,
 D: "for a distance longer than the length of your car." ,
 correct: "C" ,
+
+
 
 
 question : "You come across an unmarked crossroads with other traffic approaching. Who has right of way?" ,
@@ -38,6 +46,8 @@ D: "Whoever is driving the fastest vehicle" ,
 correct: "A" ,
 
 
+
+
 question: "The two second rule allows you to" ,
 A: "keep a safe distance from the vehicle in front." ,
 B: "check over your shoulder." ,
@@ -46,12 +56,16 @@ D: "keep a safe distance from the kerb." ,
 correct: "A" ,
 
 
+
+
 question: "The warning light for your anti-lock brakes comes on and stays on. You should" ,
 A: "check the brake fluid." ,
 B: "make sure that the footbrake is released properly by pumping it." ,
 C: "get your brakes checked straight away." ,
 D: "make sure that the handbrake is fully released." ,
 correct: "C"  ,
+
+
 
 
 question : "You are involved in a collision in which someone suffers a burn. A burn should be cooled for at least" ,
@@ -69,6 +83,8 @@ B: "building up your speed to join the carriageway." ,
 C: "stopping if you need to rest." ,
 D: "reducing your speed so that you can leave the carriageway." ,
 correct: "A" ,
+
+
 
 
 question : "It is compulsory to wear glasses or contact lenses when you drive if" ,
