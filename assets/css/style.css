@@ -73,11 +73,6 @@ p {
     height: 600px;
     overflow: hidden;
     width: 1000px;
-    /* box-sizing: content-box; */
-    /* margin-left: auto;
- margin-right: auto;
- margin-top: 40px;
- margin-bottom: 40px; */
     margin: 40px auto;
     color: aliceblue;
     font-size: large;
@@ -120,7 +115,7 @@ ul {
 ul li {
     font-size: 1.2rem;
     margin: 1rem 0;
-    /* padding-right: 800px; */
+
 }
 
 
@@ -142,23 +137,119 @@ button:hover {
     background-color: aqua;
 }
 
-/* button:focus {
-    outline: none;
-    background-color: green;
-} */
-@media screen and (max-width: 1020px) {
+
+
+
+@media screen and (max-width: 1440px) {
     #Fimage {
-        width: 100%;
+        width: 90%;
     }
 
     .quiz-container {
-        width: unset;
-        margin: 30px 15px;
+        width: 90%;
+        margin: 40px auto;
     }
+
+    ul li {
+        font-size: 1.9rem;
+        margin: 1rem 0;
+    }
+
+
+    h3,
+    h2 {
+        padding-top: 1rem;
+        text-align: center;
+        margin: 0;
+        font-size: 1.9rem;
+    }
+
+    p {
+        font-size: 1.6rem;
+    }
+
+    button {
+        font-size: 1.6rem;
+    }
+
 }
 
-/* @media screen and (max-width: 800px) {
+
+
+
+@media screen and (max-width: 1024px) {
     #Fimage {
-        display: none;
+        width: 90%;
+
+
     }
-} */
+
+    .quiz-container {
+
+        width: 90%;
+        margin: 40px auto;
+
+    }
+
+
+
+    ul li {
+        font-size: 1.5rem;
+        margin: 1rem 0;
+
+    }
+
+
+    h3,
+    h2 {
+
+        font-size: 1.7rem;
+    }
+
+    p {
+        font-size: 1.4rem;
+    }
+
+    button {
+        font-size: 1.3rem;
+    }
+
+
+
+}
+
+@media screen and (max-width: 800px) {
+
+    #Fimage {
+        width: 80%;
+    }
+
+    .quiz-container {
+        width: 80%;
+        margin: 40px auto;
+
+    }
+
+    ul li {
+        font-size: 1.3rem;
+
+
+    }
+
+
+    h3,
+    h2 {
+
+        font-size: 1.4rem;
+    }
+
+    p {
+        font-size: 1.2rem;
+    }
+
+    button {
+        font-size: 0.9rem;
+    }
+
+
+}
