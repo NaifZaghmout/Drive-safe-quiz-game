@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    
+
+
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
         integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Raleway%7CRighteous" rel="stylesheet">
@@ -14,64 +15,74 @@
 
     <title>Drive Safe Quiz Game</title>
 
-    
+
 </head>
+
 <body>
-    
-<header>
-    <h1>Drive Safe (Quiz Game)</h1>
-</header>
 
- 
-<img src="assets/images/qagbsndhvezviaw6jtjc.webp" alt="Qimage" id="Fimage">
+    <header>
+        <h1>Drive Safe (Quiz Game)</h1>
+    </header>
 
 
-
-<section class="aboutq">
-    <h2>About The Quiz Game <i class="fas fa-info"></i></h2>
-
-    <p> 
-        A driving theory test is an exam that assesses your knowledge and understanding of driving laws, rules of the road, and safe driving practices – along with your ability to assess danger while behind the wheel of a car.
-        <br> 
-        <br>
-        The purpose of the drive safe quiz game theory test is to help drivers have a basic understanding of what to do when driving and that they can demonstrate safe and legal driving behaviours.
-
-    </p>
-</section>
+    <img src="assets/images/qagbsndhvezviaw6jtjc.webp" alt="Qimage" id="Fimage">
 
 
-<div class="quiz-container" id="quiz">
-<div class="quiz-header">
-    <h3 id="questions">Questions Text</h3>
 
-    <ul>
-        <li>
-            <input type="radio" name="answer" id="A" class="answer">
-            <label for="A" id="A_text">Answer</label>
-        </li>
+    <section class="aboutq">
+        <h2>About The Quiz Game <i class="fas fa-info"></i></h2>
 
-        <li>
-            <input type="radio" name="answer" id="B" class="answer">
-            <label for="B" id="B_text">Answer</label>
-        </li>
+        <p>
+            A driving theory test is an exam that assesses your knowledge and understanding of driving laws, rules of
+            the road, and safe driving practices – along with your ability to assess danger while behind the wheel of a
+            car.
+            <br>
+            <br>
+            The purpose of the drive safe quiz game theory test is to help drivers have a basic understanding of what to
+            do when driving and that they can demonstrate safe and legal driving behaviours.
 
-        <li>
-            <input type="radio" name="answer" id="C" class="answer">
-            <label for="C" id="C_text">Answer</label>
-        </li>
+        </p>
+    </section>
 
-        <li>
-            <input type="radio" name="answer" id="D" class="answer">
-            <label for="D" id="D_text">Answer</label>
-        </li>
-    </ul>
+
+    <div class="quiz-container" id="quiz">
+        <div id="counter-container">
+            <p>
+                <span id="counter">0</span> / 20
+            </p>
+        </div>
+        <div class="quiz-header">
+            <h3 id="question">Questions Text</h3>
+        </div>
+
+        <ul>
+            <li>
+                <input type="radio" name="answer" id="A" class="answer">
+                <label for="A" id="A_text">Answer</label>
+            </li>
+
+            <li>
+                <input type="radio" name="answer" id="B" class="answer">
+                <label for="B" id="B_text">Answer</label>
+            </li>
+
+            <li>
+                <input type="radio" name="answer" id="C" class="answer">
+                <label for="C" id="C_text">Answer</label>
+            </li>
+
+            <li>
+                <input type="radio" name="answer" id="D" class="answer">
+                <label for="D" id="D_text">Answer</label>
+            </li>
+        </ul>
         <button id="submit">Submit</button>
 
-</div>
+    </div>
 
 
 
-</div>
+   
 
 
 
@@ -79,4 +90,5 @@
 
     <script src="assets/js/script.js"></script>
 </body>
+
 </html>
