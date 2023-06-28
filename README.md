@@ -31,7 +31,7 @@ Here the new driving learners can practice the theory test .
   - Containes a header.
   - Contains an image in the center .
   - An orange back-ground color.
-  - About the quiz game secation.
+  - Contain About the quiz game secation.
   - Contain a test form.
   
 
@@ -44,7 +44,7 @@ Here the new driving learners can practice the theory test .
     - What this test for.
     - The purpose of the test.
 
-      ![About section](assets/images/about.png.png)
+      ![About section](assets/images/about.png)
 
 ---
 
@@ -69,7 +69,7 @@ Here the new driving learners can practice the theory test .
 
 
 ### Bugs
-/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+
 - ##### Solved bugs
   - None.
 - ##### Unsolved bugs
@@ -85,25 +85,24 @@ Here the new driving learners can practice the theory test .
   - No errors or warnings were found when passing through the official W3C (Jigsaw) validator.
 - ##### Accessibility and performance
   - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
-    ![Performance score](assets/images/performance.png.png)
+    ![Performance score](assets/images/performance.png)
 
 ---
 
 ### Deployment
 
-- The website was deployed to GitHub pages and can be accessed by the link: [Drive Safe Quiz Test Game](https://naifzaghmout.github.io/Drive-safe-quiz-game/).
+- The website was deployed to GitHub pages and can be accessed by the link: [Drive Safe Quiz Game](https://naifzaghmout.github.io/Drive-safe-quiz-game/).
 
 ---
 
 ### Credits
 
 - ##### Content
-  - The code to make social media links was taken from the Code Institute [Love Running](https://github.com/lexach91/love-running-project) project and modified to fit my website.
-  - To make a responsive hamburger menu I watched some videos of [Kevin Powell](https://www.youtube.com/user/KepowOb) on his YouTube channel.
-  - To make animated input fields I watched some videos of [Angela Delise](https://www.youtube.com/channel/UC_TjoSnaI3CTgIgmSn3rruA) on her YouTube channel.
+  - The quiz questions was taken from DVSA (A theory driving school in UK)
+  - To make animated input fields I watched some videos of [Code with nick] on his YouTube channel.
 - ##### Media
-  - All the images for the website were taken from [Unsplash](https://unsplash.com/)
-  - All audio files were recorded by me on my phone.
+  - The images for the website were taken from [Google].
+  - 
 
 ---
 
