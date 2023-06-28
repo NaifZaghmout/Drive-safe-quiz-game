@@ -30,9 +30,9 @@ Here the new driving learners can practice the theory test .
 
   - Containes a header.
   - Contains an image in the center .
-  - An orange back-ground color.
-  - Contain About the quiz game secation.
-  - Contain a test form.
+  - orange back-ground color.
+  - Contains About the quiz game secation.
+  - Contains a test form.
   
 
   ![home page](assets/images/homepag.png)
@@ -50,7 +50,7 @@ Here the new driving learners can practice the theory test .
 
 - #####  Quiz Form
   - Contains 20 questions .
-  - four inputs A ,B ,C ,D to chose the awnser 
+  - four inputs A ,B ,C ,D to chose the answers 
   - a counter in the top right side of the form 
   - submit bottom 
     ![Quiz form section](assets/images/quiz-form.png)
