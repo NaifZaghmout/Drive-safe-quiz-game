@@ -142,7 +142,7 @@ button:hover {
 
 @media screen and (max-width: 1440px) {
     #Fimage {
-        width: 90%;
+        width: 80%;
     }
 
     .quiz-container {
@@ -235,7 +235,9 @@ button:hover {
 
 
     }
-
+ h1 {
+    font-size: medium;
+ }
 
     h3,
     h2 {
@@ -244,7 +246,7 @@ button:hover {
     }
 
     p {
-        font-size: 1.2rem;
+        font-size: 1.0rem;
     }
 
     button {
