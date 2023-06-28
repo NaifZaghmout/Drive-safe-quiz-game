@@ -20,40 +20,23 @@ Here the new driving learners can practice the theory test .
 
 ---
 
-## User stories
 
-- As a first time visitor, I want to understand of the website, so I can learn more about the school.
-- As a first time visitor, I want to be able to easily navigate through the website, so I can find the information I am looking for.
-- As a first time visitor, I want to see the information about the facilities of the school, so I can learn more about it.
-- As a first time visitor, I want to see the information about the teachers of the school, so I can learn more about them.
-- As a first time visitor, I want to see some materials used in teaching process, so I can become familiar with it.
-- As a parent of the school's student, I want the website to have the gallery, so I can find the photos from school's activities.
-- As a user, I want the website to have a contact form page, so I cant easily contact the school.
-- As a mobile device user, I want the website to be responsive, so I can use my phone or tablet to visit it.
-
----
 
 ## Features
 
 ### Home page
 
-- ##### Navigation
+- ##### Home
 
-  - Positioned at the top of the page.
-  - Contains logo of the school at the left corner.
-  - At the right side there are navigation links:
-    - Home - leads to the home page.
-    - School tour - leads to the virtual tour page.
-    - Gallery - leads to the gallery page.
-    - Contact - leads to the contact form page.
-  - The link of the page that the user currently on is underlined.
-  - The links have animated hover effect.
-  - The navigation is clear and easy to understand for the user.
-  - The navigation bar is responsive and appears in a form of a hamburger menu on mobile devices.
+  - Containes a header.
+  - Contains an image in the center .
+  - An orange back-ground color.
+  - About the quiz game secation.
+  - Contain a test form.
+  
 
-  ![NavBar desktop](assets/images/nav-bar.png)
-  ![NavBar mobile](assets/images/nav-bar-mobile.png)
-
+  ![home page](assets/images/homepag.png)
+  
 ---
 
 - ##### Hero section
