@@ -85,7 +85,7 @@ Here the new driving learners can practice the theory test .
   - No errors or warnings were found when passing through the official W3C (Jigsaw) validator.
 - ##### Accessibility and performance
   - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
-    ![Performance score](assets.png)
+    ![Performance score](assets/images/performance.png.png)
 
 ---
 
