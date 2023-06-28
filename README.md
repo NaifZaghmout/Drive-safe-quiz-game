@@ -102,7 +102,7 @@ Here the new driving learners can practice the theory test .
   - To make animated input fields I watched some videos of [Code with nick] on his YouTube channel.
 - ##### Media
   - The images for the website were taken from [Google].
-  - 
+  
 
 ---
 
