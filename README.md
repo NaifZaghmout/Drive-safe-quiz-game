@@ -1,16 +1,13 @@
 # Drive-safe-test-quiz
-A website for new drivers who wants to prepare themselves for the theory test .
+Drive-safe-test-quiz is a web for theory driving test practice .
 
+Here the new driving learners can practice the theory test .
 
 
 
 ---
 
-[Starlight English](https://lexach91.github.io/esl-school-website) is a website for an ESL school and kindergarten.
-
-Here the parents can get required information about the school, become familiar with its staff and take a closer look at the facilities and environment.
-
-![site on different devices](/assets/images/am-i-responsive.png)
+![site on different devices](/assets/images/media.png)
 
 ---
 
@@ -18,7 +15,7 @@ Here the parents can get required information about the school, become familiar 
 
 - HTML
 - CSS
-- Font Awesome icons
+- JavaScript 
 - Google fonts
 
 ---
