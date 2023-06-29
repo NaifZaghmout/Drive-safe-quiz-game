@@ -1,7 +1,7 @@
 # Drive-safe-test-quiz
 Drive-safe-test-quiz is a web for theory driving test practice .
 
-Here the new driving learners can practice the theory test .
+In this website, drivers can practice the theory test. The test contains 20 questions about knowledge, understanding of driving laws and rules of the road.
 
 
 
@@ -85,7 +85,7 @@ Here the new driving learners can practice the theory test .
   - No errors or warnings were found when passing through the official W3C (Jigsaw) validator.
 - ##### Accessibility and performance
   - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
-    ![Performance score](assets/images/performance.png)
+    ![Performance score](assets/images/lightthouse.png)
 
 ---
 
@@ -101,11 +101,8 @@ Here the new driving learners can practice the theory test .
   - The quiz questions was taken from DVSA (A theory driving school in UK)
   - To make animated input fields I watched some videos of [Code with nick] on his YouTube channel.
 - ##### Media
-  - The images for the website were taken from [Google].
+  - The images for the website was taken from [Google].
   
 
 ---
 
-#### Wireframes
-
-![Wireframes](assets/images/wireframes.png)
