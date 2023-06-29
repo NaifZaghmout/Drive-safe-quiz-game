@@ -16,7 +16,7 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 - HTML
 - CSS
 - JavaScript 
-- Google fonts
+- Google Fonts
 
 ---
 
@@ -29,8 +29,8 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 - ##### Home
 
   - Containes a header.
-  - Contains an image in the center .
-  - orange back-ground color.
+  - Contains an image in the center.
+  - Orange back-ground color.
   - Contains About the quiz game secation.
   - Contains a test form.
   
@@ -50,9 +50,9 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 
 - #####  Quiz Form
   - Contains 20 questions .
-  - four inputs A ,B ,C ,D to chose the answers 
-  - a counter in the top right side of the form 
-  - submit bottom 
+  - Four inputs A ,B ,C ,D to chose the answers.
+  - A counter in the top right side of the form.
+  - Submit bottom.
     ![Quiz form section](assets/images/quiz-form.png)
 
 
@@ -65,7 +65,7 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 ### Testing
 
 - I tested that the website works in different browsers: Chrome, Firefox, Microsoft edge.
-- I used -Am I Responsive- website to check all media sizes responsive 
+- I used -Am I Responsive- website to check all media sizes responsive.
 
 
 ### Bugs
@@ -98,8 +98,8 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 ### Credits
 
 - ##### Content
-  - The quiz questions was taken from DVSA (A theory driving school in UK)
-  - To make animated input fields I watched some videos of [Code with nick] on his YouTube channel.
+  - The quiz questions was taken from DVSA (A theory driving school in UK).
+  - To make input fields I watched some videos of [Code with nick] on YouTube .
 - ##### Media
   - The images for the website was taken from [Google].
   
