@@ -65,7 +65,7 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 ### Testing
 
 - I tested that the website works in different browsers: Chrome, Firefox, Microsoft edge.
-- I used -Am I Responsive- website to check all media sizes responsive.
+- I used (https://ui.dev/amiresponsive) website to check all media sizes responsive.
 
 
 ### Bugs
@@ -101,7 +101,7 @@ In this website, drivers can practice the theory test. The test contains 20 ques
   - The quiz questions was taken from DVSA (A theory driving school in UK).
   - To make quiz fields I watched some videos of [Code with nick] on YouTube .
 - ##### Media
-  - The images for the website was taken from [Google].
+  - The images for the website was taken from [].
   
 
 ---
