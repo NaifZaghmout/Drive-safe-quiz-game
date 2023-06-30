@@ -99,7 +99,7 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 
 - ##### Content
   - The quiz questions was taken from DVSA (A theory driving school in UK).
-  - To make input fields I watched some videos of [Code with nick] on YouTube .
+  - To make quiz fields I watched some videos of [Code with nick] on YouTube .
 - ##### Media
   - The images for the website was taken from [Google].
   
