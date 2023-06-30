@@ -256,3 +256,47 @@ button:hover {
 
 
 }
+
+
+
+
+
+@media screen and (max-width: 400px) {
+
+    #Fimage {
+        width: 80%;
+    }
+
+    .quiz-container {
+        width: 80%;
+        margin: 20px auto;
+
+    }
+
+    ul  {
+        font-size: 0.8rem;
+        padding: 0%;
+    }
+
+    
+ h1 {
+    font-size: 1.3rem;
+ }
+
+    h3,
+    h2 {
+
+        font-size: 1.1rem;
+    }
+
+    p {
+        font-size: 1.1rem;
+        text-align: center;
+    }
+
+    button {
+        font-size: 0.9rem;
+    }
+
+
+}
