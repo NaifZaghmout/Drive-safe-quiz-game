@@ -164,67 +164,67 @@ let quizData = [
 ];
 
 
-const quiz = document.getElementById('quiz')
-const answerEls = document.querySelectorAll('.answer')
-const questionEl = document.getElementById('question')
-const A_text = document.getElementById('A_text')
-const B_text = document.getElementById('B_text')
-const C_text = document.getElementById('C_text')
-const D_text = document.getElementById('D_text')
-const submitBtn = document.getElementById('submit')
+const quiz = document.getElementById('quiz');
+const answerEls = document.querySelectorAll('.answer');
+const questionEl = document.getElementById('question');
+const A_text = document.getElementById('A_text');
+const B_text = document.getElementById('B_text');
+const C_text = document.getElementById('C_text');
+const D_text = document.getElementById('D_text');
+const submitBtn = document.getElementById('submit');
 const counter = document.getElementById('counter');
 
 
-let currentQuiz = 0
-let score = 0
+let currentQuiz = 0;
+let score = 0;
 
-loadQuiz()
+loadQuiz();
 
 
 function loadQuiz() {
 
 
-    deselectAnswers()
+    deselectAnswers();
 
-    const currentQuizData = quizData[currentQuiz]
-    questionEl.innerText = currentQuizData.question
-    A_text.innerText = currentQuizData.A
-    B_text.innerText = currentQuizData.B
-    C_text.innerText = currentQuizData.C
-    D_text.innerText = currentQuizData.D
-    counter.innerText = currentQuiz + 1
+    const currentQuizData = quizData[currentQuiz];
+    questionEl.innerText = currentQuizData.question;
+    A_text.innerText = currentQuizData.A;
+    B_text.innerText = currentQuizData.B;
+    C_text.innerText = currentQuizData.C;
+    D_text.innerText = currentQuizData.D;
+    counter.innerText = currentQuiz + 1;
 }
 
 
 function deselectAnswers() {
 
-    answerEls.forEach(answerEl => answerEl.checked = false)
+    answerEls.forEach(answerEl => answerEl.checked = false);
 }
 
 
 function getSelected() {
 
-    let answer
+    let answer=
     answerEls.forEach(answerEl => {
         if (answerEl.checked) {
-            answer = answerEl.id
-        }
-    })
-    return answer
+            answer = answerEl.id;
+        };
+    });
+    return answer;
 }
 
 
 submitBtn.addEventListener('click', () => {
-    const answer = getSelected()
+    const answer = getSelected();
     if (answer) {
         if (answer === quizData[currentQuiz].correct) {
-            score++
+            score++;
         }
-        currentQuiz++
-        counter.innerText = currentQuiz + 1
+        currentQuiz++;
+        counter.innerText = currentQuiz + 1;
 
         if (currentQuiz < quizData.length) {
-            loadQuiz()
+            loadQuiz();
         } else {
             quiz.innerHTML = `
             
@@ -232,9 +232,9 @@ submitBtn.addEventListener('click', () => {
 
             <button onclick ="location.reload()"> Reload </button> 
 
-            `
+            `;
 
 
         }
     }
-})
+});
