@@ -135,7 +135,7 @@ In this website, drivers can practice the theory test. The test contains 20 ques
   - No errors or warnings were found when passing through the official W3C (Jigsaw) validator.
     ![W3C validator result](assets/images/c-checker.png)
 - ##### JavaScript
-  -No errors or warnings were found when passing through the JS Hint.
+  - No errors or warnings were found when passing through the JS Hint.
     ![Jshint](assets/images/js-checker.png)
 - ##### Accessibility and performance
   - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
