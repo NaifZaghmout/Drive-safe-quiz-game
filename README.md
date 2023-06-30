@@ -65,17 +65,17 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 ### Testing
 
 - I tested that the website works in different browsers: Chrome, Firefox, Microsoft edge.
-- I used -Am I Responsive- website to check all media sizes responsive (https://ui.dev/amiresponsive).
+- I used -Am I Responsive- website to check all media sizes responsive[Am-I-Responsive] (https://ui.dev/amiresponsive).
 
 
 ### Bugs
 
 - ##### Solved bugs
   - I had an error (failed to load resource: the server responded with a status of 404 (). )
-    Favicon was missing , i used (https://favicon.io/) to get the icon and the link i need .
+    Favicon was missing , i used [Favicon] (https://favicon.io/) to get the icon and the link i need .
 
   - I had missing semicolons 
-    I used (https://jshint.com/) to check all my JS code and find the missing semicolons 
+    I used [JS.Hint] (https://jshint.com/) to check all my JS code and find the missing semicolons 
 
 - ##### Unsolved bugs
   - None.
