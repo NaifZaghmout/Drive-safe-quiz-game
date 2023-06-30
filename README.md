@@ -105,8 +105,8 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 ### Credits
 
 - ##### Content
-  - The quiz questions was taken from DVSA (A theory driving school in UK).
-  - To make quiz fields I watched some videos of [Code with nick] on YouTube .
+  - The quiz questions was taken from [DVSA](https://www.gov.uk/book-theory-test) (A theory driving school in UK).
+  - To make quiz fields I watched some videos of [Code with Nick](https://www.youtube.com/@CodingWithNick) on YouTube .
 - ##### Media
   - The images for the website was taken from [Google](https://www.google.com/search?hl=en&sxsrf=APwXEdcDO-XWNC_BbNB2RjPJEdPWY6FS6w:1688130478926&q=theory+driving+test&tbm=isch&sa=X&ved=2ahUKEwjcgp-MiOv_AhWwh_0HHTQXBDEQ0pQJegQICxAB&biw=1707&bih=837&dpr=1.13)
   
