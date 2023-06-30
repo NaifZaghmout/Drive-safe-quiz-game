@@ -65,17 +65,17 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 ### Testing
 
 - I tested that the website works in different browsers: Chrome, Firefox, Microsoft edge.
-- I used -Am I Responsive- website to check all media sizes responsive[Am-I-Responsive] (https://ui.dev/amiresponsive).
+- I used -Am I Responsive- website to check all media sizes responsive[Am-I-Responsive](https://ui.dev/amiresponsive)
 
 
 ### Bugs
 
 - ##### Solved bugs
   - I had an error (failed to load resource: the server responded with a status of 404 (). )
-    Favicon was missing , i used [Favicon] (https://favicon.io/) to get the icon and the link i need .
+    Favicon was missing , i used [Favicon](https://favicon.io/) to get the icon and the link i need .
 
   - I had missing semicolons 
-    I used [JS.Hint] (https://jshint.com/) to check all my JS code and find the missing semicolons 
+    I used [JS.Hint](https://jshint.com/) to check all my JS code and find the missing semicolons 
 
 - ##### Unsolved bugs
   - None.
@@ -98,7 +98,7 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 
 ### Deployment
 
-- The website was deployed to GitHub pages and can be accessed by the link: [Drive Safe Quiz Game](https://naifzaghmout.github.io/Drive-safe-quiz-game/).
+- The website was deployed to GitHub pages and can be accessed by the link: [Drive Safe Quiz Game](https://naifzaghmout.github.io/Drive-safe-quiz-game/)
 
 ---
 
@@ -108,7 +108,7 @@ In this website, drivers can practice the theory test. The test contains 20 ques
   - The quiz questions was taken from DVSA (A theory driving school in UK).
   - To make quiz fields I watched some videos of [Code with nick] on YouTube .
 - ##### Media
-  - The images for the website was taken from [].
+  - The images for the website was taken from [Google](https://www.google.com/search?hl=en&sxsrf=APwXEdcDO-XWNC_BbNB2RjPJEdPWY6FS6w:1688130478926&q=theory+driving+test&tbm=isch&sa=X&ved=2ahUKEwjcgp-MiOv_AhWwh_0HHTQXBDEQ0pQJegQICxAB&biw=1707&bih=837&dpr=1.13)
   
 
 ---
