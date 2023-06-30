@@ -65,13 +65,18 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 ### Testing
 
 - I tested that the website works in different browsers: Chrome, Firefox, Microsoft edge.
-- I used (https://ui.dev/amiresponsive) website to check all media sizes responsive.
+- I used -Am I Responsive- website to check all media sizes responsive (https://ui.dev/amiresponsive).
 
 
 ### Bugs
 
 - ##### Solved bugs
-  - None.
+  - I had an error (failed to load resource: the server responded with a status of 404 (). )
+    Favicon was missing , i used (https://favicon.io/) to get the icon and the link i need .
+
+  - I had missing semicolons 
+    I used (https://jshint.com/) to check all my JS code and find the missing semicolons 
+
 - ##### Unsolved bugs
   - None.
 
@@ -81,8 +86,10 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 
 - ##### HTML
   - No errors or warnings were found when passing through the official W3C validator.
+    ![W3C validator result](assets/images/cheaker.png)
 - ##### CSS
   - No errors or warnings were found when passing through the official W3C (Jigsaw) validator.
+    ![W3C validator result](assets/images/c-checker.png)
 - ##### Accessibility and performance
   - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
     ![Performance score](assets/images/lightthouse.png)
@@ -106,3 +113,6 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 
 ---
 
+
+
+[def]: ../
