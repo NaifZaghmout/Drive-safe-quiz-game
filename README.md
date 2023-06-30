@@ -1,4 +1,4 @@
-# Drive-safe-test-quiz
+# Drive-Safe-Test-Quiz
 Drive-safe-test-quiz is a web for theory driving test practice .
 
 In this website, drivers can practice the theory test. The test contains 20 questions about knowledge, understanding of driving laws and rules of the road.
