@@ -187,5 +187,4 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 
 #### Wireframes
 
-![wireframe](assets/images/wired.png)
-![wireframe](assets/images/wire-m.png)
+![wireframe](assets/images/wired.png)(assets/images/wire-m.png)
