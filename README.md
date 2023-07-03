@@ -1,5 +1,5 @@
 # Drive-Safe-Test-Quiz
-Drive-safe-test-quiz is a web for theory driving test practice .
+[Drive Safe Quiz Game](https://naifzaghmout.github.io/Drive-safe-quiz-game/) is a web for theory driving test practice .
 
 In this website, drivers can practice the theory test. The test contains 20 questions about knowledge, understanding of driving laws and rules of the road.
 
@@ -19,10 +19,10 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 
 ## Technologies used
 
-- HTML
-- CSS
-- JavaScript 
-- Google Fonts
+- ![HTML](https://en.wikipedia.org/wiki/HTML)
+- ![CSS](https://en.wikipedia.org/wiki/CSS)
+- ![JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- ![Google-Fonts](https://en.wikipedia.org/wiki/Google_Fonts)
 
 
 
@@ -52,12 +52,12 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 
 - ##### Home
 
-  - Containes a header.
+
+  - Contains a header.
   - Contains an image in the center.
-  - Orange back-ground color.
-  - Contains About the quiz game secation.
+  - Orange background color.
+  - Contains the About the Quiz Game section.
   - Contains a test form.
-  
 
   ![home page](assets/images/homepag.png)
   
@@ -102,7 +102,7 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 ### Testing
 
 - I tested that the website works in different browsers: Chrome, Firefox, Microsoft edge.
-- I used -Am I Responsive- website to check all media sizes responsive[Am-I-Responsive](https://ui.dev/amiresponsive)
+- I used [Am-I-Responsive](https://ui.dev/amiresponsive) website to check all media sizes responsive
 - I confirmed that this project responsive , looks good and functions on all standard screen sizes using devtools device toolbar.
 
 
@@ -118,6 +118,10 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 - ##### Unsolved bugs
   - None.
 
+
+
+##### Mistakes
+  - A mistake was made when I wrote the commit message; I wasn't aware of it, but following a discussion with my mentor, I now know how to write it correctly.
 
 
 
