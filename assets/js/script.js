@@ -206,12 +206,12 @@ function deselectAnswers() {
 
 function getSelected() {
 
-    let answer=
-    answerEls.forEach(answerEl => {
-        if (answerEl.checked) {
-            answer = answerEl.id;
-        };
-    });
+    let answer ;
+        answerEls.forEach(answerEl => {
+            if (answerEl.checked) {
+                answer = answerEl.id;
+            };
+        });
     return answer;
 }
 
