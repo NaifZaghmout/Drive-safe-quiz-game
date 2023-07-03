@@ -19,10 +19,10 @@ In this website, drivers can practice the theory test. The test contains 20 ques
 
 ## Technologies used
 
-- ![HTML](https://en.wikipedia.org/wiki/HTML)
-- ![CSS](https://en.wikipedia.org/wiki/CSS)
-- ![JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-- ![Google-Fonts](https://en.wikipedia.org/wiki/Google_Fonts)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [Google-Fonts](https://en.wikipedia.org/wiki/Google_Fonts)
 
 
 
